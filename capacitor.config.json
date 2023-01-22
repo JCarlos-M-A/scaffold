@@ -1,0 +1,11 @@
+{
+  "appId": "com.escaffold.escaffold",
+  "appName": "scaffold",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "Splashscreen":{
+    "launchAutoHide": true,
+    "launchShowDuration": 0,
+    "androidSplashResourceName": "./public/logo.png"
+  }
+}
