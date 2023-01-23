@@ -1,5 +1,5 @@
 {
-  "appId": "com.escaffold.escaffold",
+  "appId": "com.example.scaffold",
   "appName": "scaffold",
   "webDir": "dist",
   "bundledWebRuntime": false,
