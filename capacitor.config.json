@@ -1,6 +1,6 @@
 {
   "appId": "com.escaffold.escaffold",
-  "appName": "scaffold",
+  "appName": "Mario 3D web",
   "webDir": "dist",
   "bundledWebRuntime": false,
   "Splashscreen":{
